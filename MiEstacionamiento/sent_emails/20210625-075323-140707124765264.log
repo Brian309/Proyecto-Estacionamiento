@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?q?Restablecimiento_de_la_contrase=C3=B1a_en_127=2E0=2E0=2E1=3A8000_?=
+From: webmaster@localhost
+To: brian12ramirez@gmail.com
+Date: Fri, 25 Jun 2021 07:53:23 -0000
+Message-ID: <162460760309.35827.8676347318082945144@wazowski>
+
+
+Usted está recibiendo este correo electrónico porque ha solicitado un restablecimiento de contraseña para la cuenta de usuario en 127.0.0.1:8000.
+
+Por favor visite la página que se muestra a continuación y elija una nueva contraseña:
+
+http://127.0.0.1:8000/accounts/reset/MQ/aosgkz-e0579ce5f54e0d5701e547732091dabd/
+
+Su nombre de usuario, en caso de que lo haya olvidado: brian
+
+¡Gracias por usar nuestro sitio!
+
+El equipo de 127.0.0.1:8000
+
+
+
+-------------------------------------------------------------------------------
